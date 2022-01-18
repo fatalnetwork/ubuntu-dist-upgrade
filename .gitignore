@@ -1,0 +1,13 @@
+# Netbeans
+/nbproject/*
+
+# Working Files
+*~
+
+# Eclipse
+/.settings/*
+/.buildpath
+/.project
+
+# VS
+.vscode
