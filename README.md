@@ -7,7 +7,7 @@ Ubuntu
 # How to use
 ## Terminal && Crontab
 ```shell
-bash /[PATH-TO-FILE]/ubuntu-dist-upgrade.sh
+bash /[PATH-TO-FILE]/ubuntu_dist_upgrade.sh
 ```
 <i>Replace [PATH-TO-FILE] with your path to this file</i>
 
